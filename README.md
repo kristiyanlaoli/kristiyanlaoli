@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristiyanlaoli
-- 👀 I’m interested in Machine Learning and Physics
+- 👀 I’m interested in Physics Computation, Math, and Machine Learning
 - 🌱 I’m currently learning Data Analyst
 
 <!---
