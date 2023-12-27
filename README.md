@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kristiyanlaoli
-- 👀 I’m interested in Physics Computation, Math, and Machine Learning
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Physics Computation, Math, Machine Learning, and Developer.
 
 <!---
 kristiyanlaoli/kristiyanlaoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
